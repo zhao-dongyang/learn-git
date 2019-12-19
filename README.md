@@ -1,7 +1,8 @@
 # learn-git
 ********** 
 .gitignore示范 
-qwer
+sdfasdas
+
 ```
   *
   !*.c
